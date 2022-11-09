@@ -15,7 +15,7 @@ Requires `dotenv` package to work
 
 ## How to interact
  
-  1. Visit this [Goreli Ether Scan Address](https://goerli.etherscan.io/address/0xdA9595a862b0166BD74c49C1aE0C1ca3bbBdBbCA#writeContract)(Open in new tab!)
+  1. Visit this [Goreli Ether Scan Address](https://goerli.etherscan.io/address/0xdA9595a862b0166BD74c49C1aE0C1ca3bbBdBbCA#writeContract) (Open in new tab!)
   2. Click on **Connect To Web 3** and then authenticate using *Metamask*
   3. Expand **setGreeting**, add your <u>text</u> and click *Write*
   4. Pay the transaction fees and let transaction *confirm*
